@@ -1,2 +1,2 @@
 # images
-default images to be used
+default images to be used.
